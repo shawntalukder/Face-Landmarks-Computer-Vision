@@ -89,4 +89,4 @@ Install required packages:
 # Contribution
 
 Contributions, suggestions, and improvements are welcome.
-Please feel free to submit issues or pull requests.    
+Please feel free to submit issues or pull requests!   
